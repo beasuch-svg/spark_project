@@ -1,0 +1,12 @@
+.venv/
+.uv-cache/
+.vscode/
+**/.ipynb_checkpoints/
+
+# Datos: mantener solo cars.csv
+data/*
+!data/cars.csv
+data/generated/
+
+# Material de apoyo local
+PontIA-computacion-distribuida.pdf
